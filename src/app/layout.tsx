@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: 'Sua Cara, Sua Marca, Seu Estilo!',
   description:
     'Baixe agora o 1º Capítulo do Livro "Sua Cara, Sua Marca, Seu Estilo!"',
+  icons: {
+    icon: '/icon.png',
+  },
 }
 
 export default function RootLayout({
