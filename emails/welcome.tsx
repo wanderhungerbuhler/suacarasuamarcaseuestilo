@@ -54,7 +54,7 @@ export function WelcomeEmail({
               </Text>
 
               <Text className="px-5 text-sm leading-6 text-black">
-                Não se preocupe, a intenção é que você se sinta confortável e
+                Não se preocupe, a intenção é que você sinta-se confortável e
                 faça uma leitura das primeiras páginas.
               </Text>
 
